@@ -1,0 +1,15 @@
+video {
+    text-align: center;
+    padding-left: 100px;
+}
+h1{
+    padding-top: 50px;
+}
+body {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('backimage.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
